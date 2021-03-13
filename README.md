@@ -5,10 +5,6 @@ A Thread-Level and Warp-Level Fusion Synchronization-Free Sparse Triangular Solv
 
 This is the source code of our paper "YuenyeungSpTRSV: A Thread-Level and Warp-Level Fusion Synchronization-Free Sparse Triangular Solve" by Feng Zhang, Jiya Su, Weifeng Liu, Bingsheng He, Ruofan Wu, Xiaoyong Du, Rujia Wang, 2021.
 
-YuenyeungSpTRSV is an extension of our previous work "CapelliniSpTRSV: A Thread-Level Synchronization-Free Sparse Triangular Solve on GPUs" (https://github.com/JiyaSu/CapelliniSpTRSV).
-
-Our paper can be downloaded from XXX (XXXXX).
-
 There are two versions of YYSpYRSV, namely CUDA and openCL.
 
 ## Abstract
@@ -53,6 +49,6 @@ If you have any questions, please contact us (jsu18@hawk.iit.edu or Jiya_Su@ruc.
 
 If you use our code, please cite our paper:
 ```
-XXXX
+[TPDS’21] “YuenyeungSpTRSV: A Thread-Level and Warp-Level Fusion Synchronization-Free Sparse Triangular Solve”, Feng Zhang, Jiya Su, Weifeng Liu, Bingsheng He, Ruofan Wu, Xiaoyong Du, Rujia Wang. IEEE Transactions on Parallel and Distributed Systems, 2021 (TPDS 2021).
 ```
 
